@@ -1,5 +1,5 @@
 🐾 Wildlife Trade Prediction 
-link- "C:\Users\USER\Downloads\Wildlife Trade Prediction Using AI & Data Science (1).pptx"
+
 This project aims to predict and analyze patterns in illegal wildlife trade using machine learning and data analytics. As part of my internship, I contributed to building and optimizing models that detect potential illicit trade activities from structured and unstructured data sources.
 
 🚀 Project Highlights
